@@ -7,5 +7,5 @@ if the string is an additive sequence - the program will print the sequence, if 
 
 
  
- you can see examples of the program's input and output in the "examples" png file that is added to this project(:
+ <p>you can see examples of the program's input and output in the "examples" png file that is added to this project(: </p>
  
