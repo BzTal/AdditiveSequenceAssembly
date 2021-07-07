@@ -1,5 +1,5 @@
 # AdditiveSequenceAssembly
-This program was written in Assembly X86.
+This program was written in Assembly X86. /n
 Given a string (inside the inc file) , the program's target is to find whether the string contains an additive sequence or not using recursion.
 if the string is an additive sequence - the program will print the sequence, if not - the program will print "false".
 
