@@ -1,4 +1,5 @@
 # AdditiveSequenceAssembly
+<a href="https://ibb.co/rtwFkpd"><img src="https://i.ibb.co/Jdsmnp3/examples-1.png" alt="examples-1" border="0"></a>
 <p>This program was written in Assembly X86. </p>
 <p> <b>Defenition:</b> A string contains an additive sequence if its digits can make a sequence of numbers in which every number is addition of previous two numbers.
  A valid string should contain at least three digit to make one additive sequence, and the first and second numbers of the string cannot have a leading zero.</p>
